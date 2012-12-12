@@ -16,13 +16,13 @@ EpicEditorOptions={
 };
 SharrreOptions={
 	share: {
-	  googlePlus: true,
-	  // facebook: true,
+	  //googlePlus: true,
+	  facebook: true,
 	  twitter: true,
 	},
 	buttons: {
-	  googlePlus: {size: 'tall'},
-	  // facebook: {layout: 'box_count'},
+	  //googlePlus: {size: 'tall'},
+	  facebook: {layout: 'box_count'},
 	  twitter: {
 	    count: 'vertical',
 	    via: 'TelescopeApp'
